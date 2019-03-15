@@ -10,3 +10,6 @@ All documentation entries will go here
 
 And some more will go here. When I work out what it will be....
 
+### More Minor
+
+A final test to verify that git is working correctly.
